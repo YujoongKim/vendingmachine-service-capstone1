@@ -1,0 +1,2 @@
+A1|Potato Crisps|3.05|Chip|5
+A2|Stackers|1.45|Chip|0
